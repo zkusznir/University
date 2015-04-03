@@ -75,7 +75,3 @@ class Sudoku
     return false
   end
 end
-
-sudoku = Sudoku.new
-sudoku.solution
-sudoku.draw
